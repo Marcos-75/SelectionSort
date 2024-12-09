@@ -14,9 +14,9 @@ public class SelectionSort {
      */
     public SelectionSort(){
         // Constructor vacio por defecto
+        System.out.print("Marcos Ortiz Gómez - M8 - EAC4");
     }
-    
-    
+        
     /**
      * Metodo sort, ordena el array dado
      * 
